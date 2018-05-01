@@ -187,6 +187,7 @@ h1 {
 	
 	nav {
 		flex-direction: column;
+		width: 100%;
 	}
 	
 	section {
